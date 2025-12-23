@@ -1,6 +1,6 @@
 # Wireless Charging Clock
 
-![The clock showing the time while charging a Kyocera DuraForce Pro 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/589898831f11ada2_working.png "The clock in use")
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/589898831f11ada2_working.png" width="50%">
 
 This is a thingy you can 3d print to combine a General Electric 7-4613b clock, a Deal Worthy wireless charger, and a Woods Christmas light style mini power strip into a clock that charges your phone wirelessly while you sleep. Designed for my dad as a Christmas present (he's had this as an idea since as long as I can remember)
 
