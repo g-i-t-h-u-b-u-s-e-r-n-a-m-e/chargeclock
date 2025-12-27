@@ -4,6 +4,10 @@ This is a thingy you can 3d print to combine a General Electric 7-4613b clock, a
 
 Want to see how I designed it? Read my Blueprint! https://blueprint.hackclub.com/projects/2983
 
+## The clock in action
+
+https://youtu.be/iXhxgi9AIHs
+
 ## Why you shouldn't make this
 If you think this project is cool, which you hopefully do, you should still probably not make this. Here's why:
 
